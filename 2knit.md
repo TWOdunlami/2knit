@@ -18,7 +18,7 @@ This website was created to share easy knitting patterns. This intended for begi
 
 ## Help
 
-Any loading problems or issues, Please send an email to two-wayink.llc@outlook.com. Loading issues will be fixed within 24hrs of notice, or pull request.
+Any loading problems or issues, Please send an email to 2knit8@gmail.com. Loading issues will be fixed within 24hrs of notice, or pull request.
 ```
 
 
