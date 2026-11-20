@@ -6,7 +6,8 @@ This website was created to share easy knitting patterns. This intended for begi
 ## Dependencies
 
 * No prerequisites, libraries, or OS versions needed to run this website.
-* ex. Windows 10 or OSX 10
+* ex. Windows 10 or OSX 10.
+* This website uses cha support through a 3rd-party website MYLIVECHAT.COM
 
 ### Pattern Notes
 
