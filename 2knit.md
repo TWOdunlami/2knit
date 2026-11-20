@@ -1,6 +1,6 @@
 # TWO CRAFTS: Knitting Pattern
 
-This website was created to share easy knitting patterns. This intended for beginners. All patterns are free and can be republished with/without credit. All images saved are from my completed projects.
+This website was created to share easy knitting patterns FOR FREE TO ALL VISITORS. The patterns are intended for beginners. All patterns can be republished with/without credit. All images saved in th efolder file are from my completed projects. The others are open source
 
 
 ## Dependencies
